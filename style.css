@@ -1,0 +1,18 @@
+html {
+  background: red;
+}
+body {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px 75px;
+  background: white;
+}
+
+input {
+  width: 50px;
+}
+
+img {
+  width: 50px;
+}
